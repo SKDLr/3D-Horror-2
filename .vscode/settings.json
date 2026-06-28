@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "3D Horror 2.slnx",
+    "dotnet.defaultSolution": "3D-Horror-2.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
