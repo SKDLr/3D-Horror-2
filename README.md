@@ -80,7 +80,7 @@ Assets/
 
 ## 📷 Screenshots
 
-> Add gameplay screenshots here.
+> <img width="1917" height="1027" alt="8" src="https://github.com/user-attachments/assets/4e17f94a-229f-4213-bcea-3556bf6db853" />
 
 ```
 Screenshots/
