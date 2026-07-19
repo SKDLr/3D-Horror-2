@@ -1,6 +1,6 @@
 # 👻 Echoes of the Dark
 
-A first-person horror game developed in **Unity** where players must navigate a dark, atmospheric environment while avoiding a relentless monster. Search for keys, solve environmental challenges, and escape before the creature catches you.
+A first person horror game developed in **Unity** where players must navigate a dark, atmospheric environment while avoiding a relentless monster. Search for keys, solve environmental challenges, and escape before the creature catches you.
 
 ---
 
